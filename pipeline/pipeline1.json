@@ -15,8 +15,7 @@
 		],
 		"variables": {
 			"var1": {
-				"type": "Boolean",
-				"defaultValue": "null"
+				"type": "Boolean"
 			}
 		},
 		"annotations": []
